@@ -8,6 +8,4 @@ __pycache__/
 .run
 # 忽略docs文件夹（你的实际文件夹）
 docs/
-# 忽略hardware文件夹（你的实际文件夹）
-hardware/
 # （注：.gitignore本身不需要写在这里，它是要提交到仓库的配置文件）

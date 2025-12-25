@@ -1,0 +1,13 @@
+# 忽略虚拟环境文件夹
+.venv
+# 忽略IDE配置文件夹（如PyCharm的.idea）
+.idea
+# 忽略Python编译缓存
+__pycache__/
+# 忽略运行时临时文件夹
+.run
+# 忽略docs文件夹（你的实际文件夹）
+docs/
+# 忽略hardware文件夹（你的实际文件夹）
+hardware/
+# （注：.gitignore本身不需要写在这里，它是要提交到仓库的配置文件）
